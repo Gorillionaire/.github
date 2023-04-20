@@ -12,7 +12,7 @@ Gorilla was shuttered at the end of 2022 to many people's shock and dismay. Main
 
 Supported libraries:
 
-* [mux](github.com/gorillionaire/mux), a powerful request router for web applications
-* [sessions](github.com/gorillionaire/sessions), making cookies and session management easy
-* [csrf](github.com/gorillionaire/csrf), csrf protection middleware
+* [mux](https://github.com/gorillionaire/mux), a powerful request router for web applications
+* [sessions](https://github.com/gorillionaire/sessions), making cookies and session management easy
+* [csrf](https://github.com/gorillionaire/csrf), csrf protection middleware
     
