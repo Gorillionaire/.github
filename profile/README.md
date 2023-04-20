@@ -20,7 +20,7 @@ Supported libraries:
 
 - [x] Fork repos
 - [x] Enable discussions
-- [] Triage and port over open issues
+- [ ] Triage and port over open issues
 
 If you would like another repo maintained (probably websockets) let me know in the Discussions tab. 
 
