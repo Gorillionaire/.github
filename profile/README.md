@@ -20,12 +20,15 @@ Supported libraries:
 
 - [x] Fork repos
 - [x] Enable discussions
+- [x] Enable issues
 - [ ] Triage and port over open issues
+- [ ] Address issues
+- [ ] Enable sponsorships if workload is significant
 
-If you would like another repo maintained (probably websockets) let me know in the Discussions tab. 
+If you would like another repo maintained (websockets, probably) let me know in the Discussions tab. 
 
 If you would like to help out, also let me know. 
 
 ## Who is maintaining this?
 
-Former Google engineer. I have about 10 years experience split between software engineering and security engineering. If you are a corporation and are nervous about using this fork feel free to reach out for my Linkedin. 
+Former Google engineer. I have about 10 years experience split between software engineering and security engineering. If you are a corporation and are nervous about using this fork feel free to reach out for my Linkedin. I live in Los Angeles, CA.
